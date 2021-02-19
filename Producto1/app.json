@@ -1,0 +1,16 @@
+{
+  "name": "Producto1",
+  "displayName": "Producto1",
+  "expo": {
+    "name": "Producto1",
+    "slug": "Producto1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "assets/*"
+    ],
+    "android": {
+      "package" : "com.AnzRam.utp",
+      "versionCode": 1.0
+    }
+  }
+}
